@@ -1,0 +1,7 @@
+C:\Users\lutek\source\repos\yotto\bin\Debug\yotto.exe.config
+C:\Users\lutek\source\repos\yotto\bin\Debug\yotto.exe
+C:\Users\lutek\source\repos\yotto\bin\Debug\yotto.pdb
+C:\Users\lutek\source\repos\yotto\obj\Debug\yotto.csproj.AssemblyReference.cache
+C:\Users\lutek\source\repos\yotto\obj\Debug\yotto.csproj.CoreCompileInputs.cache
+C:\Users\lutek\source\repos\yotto\obj\Debug\yotto.exe
+C:\Users\lutek\source\repos\yotto\obj\Debug\yotto.pdb
